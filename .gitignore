@@ -14,3 +14,7 @@ env/
 
 # OS
 .DS_Store
+
+# Brain & Documentation
+docs/
+.agent/
